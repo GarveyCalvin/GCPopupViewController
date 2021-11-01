@@ -62,7 +62,7 @@
 		3777A120272CF6F0002EDB84 /* GCPopupViewController */ = {
 			isa = PBXGroup;
 			children = (
-				3777A135272CF749002EDB84 /* GCPopupViewController */,
+				3777A135272CF749002EDB84 /* Classes */,
 				3777A121272CF6F0002EDB84 /* AppDelegate.swift */,
 				3777A139272CF750002EDB84 /* GCBaseUIController.swift */,
 				3777A137272CF750002EDB84 /* GCPageViewController.swift */,
@@ -76,12 +76,12 @@
 			path = GCPopupViewController;
 			sourceTree = "<group>";
 		};
-		3777A135272CF749002EDB84 /* GCPopupViewController */ = {
+		3777A135272CF749002EDB84 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				3777A136272CF750002EDB84 /* UIViewController+GCPopupViewController.swift */,
 			);
-			path = GCPopupViewController;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
